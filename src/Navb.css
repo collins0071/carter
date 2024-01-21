@@ -1,0 +1,27 @@
+
+  .topBar {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+  }
+  .Navbar {
+    display: flex;
+    list-style: none;
+    justify-content: center;
+  }
+  .Navbar li {
+    margin-left: 50px;
+  }
+  .Navbar :hover {
+    text-decoration: underline;
+    color:rgb(67, 69, 103)
+  }
+  .btn-shop{
+    background-color: aqua;
+    outline: none;
+    border: none;
+    box-shadow: none;
+  }
+  .body {
+    
+  }
